@@ -1,0 +1,21 @@
+{
+  "name": "Wario's CoolerWatch",
+  "short_name": "Wario's CoolerWatch",
+  "start_url": "/coolerwatch-app/",
+  "scope": "/coolerwatch-app/",
+  "display": "standalone",
+  "background_color": "#DB1D00",
+  "theme_color": "#DB1D00",
+  "icons": [
+    {
+      "src": "/coolerwatch-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/coolerwatch-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
